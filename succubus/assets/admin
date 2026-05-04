@@ -1,0 +1,7 @@
+[1;37musers remove[0;31m: remove users Plan
+[1;37musers listen[0;31m: watch what as user is doing
+[1;37musers sessions[0;31m: see what users are currently connected to VPS
+[1;37musers whois[0;31m: Gives users plan and other info
+[1;37musers list[0;31m: show all users
+[1;37musers ongoing[0;31m: all on going attacks
+[1;37musers history[0;31m: all users past attacks
